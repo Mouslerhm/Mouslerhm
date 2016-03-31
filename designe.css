@@ -1,0 +1,110 @@
+#page
+{
+  width: 921px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:35px;
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+}
+
+#header ul li , #header ul li a, #header ul li a:visited
+{
+	float:right;
+	margin: 0px;
+	text-align:center;
+	line-height:40px;
+	color:Gray;
+	font-size:16px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+	list-style: none;
+}
+
+#header ul li a:hover
+{
+color:Black;
+text-decoration:underline;
+}
+
+.black_line
+{
+background-image:url(images/bg.gif);
+background-repeat:repeat;
+clear:both;
+width:916px;
+height:1px;
+}
+
+#first
+{
+width:915px;
+margin-top:30px;
+margin-bottom:15px;
+}
+
+#first .first_left
+{
+height:auto;
+width:610px;
+color:Black;
+padding-bottom:20px;
+float:left;
+}
+
+
+#first .first_right
+{
+width:305px;
+float:left;
+}
+
+.column
+{
+	float:left;	
+	padding:10px;
+	height:auto;
+	width:280px;
+}
+
+.color
+{
+	color:Gray;
+	text-decoration:none;
+}
+
+.des
+{
+	background-color:red;
+	color:white;
+	text-decoration:none;
+}
+
+.footer
+{
+	float:left;	
+	padding-left:10px;
+	height:auto;
+	width:280px;
+	color:Gray;
+}
+
+.last
+{
+	float:left;	
+	padding:10px;
+	height:auto;
+	width:600px;
+	color:Gray;
+}
+
+h3
+{
+	background-color:gray;
+	color:white;
+	width:80px;
+}

@@ -1,0 +1,204 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: Green;
+}
+
+
+#page
+{
+  width: 921px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:35px;
+  display: block; 
+  height:auto;
+  position: relative; 
+  overflow: hidden; 
+  background-color:Red;
+}
+
+
+#header ul li , #header ul li a, #header ul li a:visited{
+	float:left;
+	margin: 0px;
+	text-align:center;
+	line-height:40px;
+	color:#FFFFFF;
+	font-size:16px;
+	font-weight:bold;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#header ul li a:hover{
+color:#C90000;
+}
+/*
+#header h1
+{
+float:right;
+margin-left:17px;
+color:#FFFFFF;
+font-size:28px;
+padding-right:20px;
+}
+
+
+
+
+
+
+.dotted_line
+{
+background-image:url(dotted_line.png);
+background-repeat:no-repeat;
+clear:both;
+width:916px;
+height:5px;
+}
+
+
+#main 
+{
+width:916px;
+margin-top:30px;
+margin-bottom:15px;
+}
+
+
+#main .main_left
+{
+width:458px;
+float:left;
+}
+
+
+#main .main_right
+{
+padding-left:0px;
+height:auto;
+width:458px;
+color:#FFFFFF;
+padding-bottom:20px;
+float:left;
+}
+
+
+#main .main_left h1
+{
+padding-top:20px;
+padding-left:00px;
+color:#FFFFFF;
+font-size:28px;
+}
+
+#main .main_left h3
+{
+padding-bottom:20px;
+padding-left:50px;
+color:#C9E1FA;
+font-size:18px;
+}
+
+
+
+
+
+#header ul {
+    display:block;
+	padding: 0px;
+	list-style-type: none;
+	overflow:hidden;
+	width:650px;
+	float:left;
+}
+
+
+
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+
+
+p {text-align: left;}
+
+
+
+
+
+
+
+
+
+
+#main .main_right h2
+{
+font:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px;
+padding-bottom:15px;
+}
+
+#main .main_right p
+{
+line-height:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+	box-shadow: 3px 3px 2px #555555;
+}
+
+
+#footer {
+display:block;
+width: 921px;
+height:74px;
+background: url(footer.png) no-repeat;
+text-align:left;
+font-size:9px;
+line-height:25px;
+}
+
+#footer p{
+padding-right:20px;
+text-align:left;
+}
+
+#footer, #footer a, #footer a:visited{
+color:#FFFFFF;
+text-decoration:none;
+font-size: 17px;
+
+}
+
+#footer a:hover{
+text-decoration:underline;
+color:#C90000;
+}
+8?
